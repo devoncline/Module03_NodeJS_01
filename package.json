@@ -1,0 +1,22 @@
+{
+  "name": "module03_nodejs_01",
+  "version": "1.0.0",
+  "description": "In this assignment, you will create a simple Node.js application that accepts input from the user and displays a response in the console. This project introduces the basics of Node.js, including working with JavaScript in a server environment and using `process` for input/output.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devoncline/Module03_NodeJS_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devoncline/Module03_NodeJS_01/issues"
+  },
+  "homepage": "https://github.com/devoncline/Module03_NodeJS_01#readme"
+}
